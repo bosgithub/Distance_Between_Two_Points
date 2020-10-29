@@ -1,4 +1,6 @@
 # Distance_Between_Two_Points
 
 1. Euclidean distance
-2. 
+2. Manhattanmanhattan distance 
+3. inkowskiminkowski distance
+
