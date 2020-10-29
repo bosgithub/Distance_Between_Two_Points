@@ -2,5 +2,5 @@
 
 1. Euclidean distance
 2. Manhattanmanhattan distance 
-3. inkowskiminkowski distance
+3. Minkowski  distance
 
