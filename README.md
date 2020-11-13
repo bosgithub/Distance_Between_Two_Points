@@ -3,4 +3,5 @@
 1. Euclidean distance
 2. Manhattanmanhattan distance 
 3. Minkowski  distance
+4. Cosine Similarity 
 
