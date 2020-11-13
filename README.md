@@ -35,10 +35,8 @@ Here, x and y are points on the same ith axis
 
 <br>
 
-#### 1.1 Where is Euclidean distance used?
-As we can see from the formulea, Euclidean distance gives a sphereically symmetric  straight line distance measure from the point of reference to any other point of interest. This is used in KNN as well as K means in terms for clustering a neighborhood of a reference, classifying the cluster as the same class.
-
-
+#### 1.2 Where is Euclidean distance used?
+As we can see from the formulae, Euclidean distance gives a sphereically symmetric  straight line distance measure from the point of reference to any other point of interest. This is used in KNN as well as K means in terms for clustering a neighborhood of a reference, classifying the cluster as the same class.
 
 
 
