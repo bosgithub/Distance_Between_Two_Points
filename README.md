@@ -8,11 +8,19 @@ Distance between two points is used in many ways in machine learning. Depending 
 
 #### Let's see some types of distances
 ##### 1. Euclidean distance
-Euclidean distance is the line segment connecting the two points in Euclidean space(finite dimensional). Without additional contraints, the answer is the magnitude of a straight line intersecting the two points.
+Euclidean distance is the line segment connecting the two points in Euclidean space(finite dimensional space). Without additional contraints, the answer is the magnitude of a straight line intersecting the two points.
+
+<p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=Euclidean\&space;Distance&space;\1D=\sqrt{\left&space;(&space;x_{2}-x_{1}&space;\right&space;)^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Euclidean\&space;Distance&space;\1D=\sqrt{\left&space;(&space;x_{2}-x_{1}&space;\right&space;)^2}" title="Euclidean\ Distance \1D=\sqrt{\left ( x_{2}-x_{1} \right )^2}" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=Euclidean\&space;Distance&space;\2D=\sqrt{\left&space;(&space;x_{2}-x_{1}&space;\right&space;)^2&space;&plus;&space;\left&space;(&space;y_{2}-y_{1}&space;\right&space;)^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Euclidean\&space;Distance&space;\2D=\sqrt{\left&space;(&space;x_{2}-x_{1}&space;\right&space;)^2&space;&plus;&space;\left&space;(&space;y_{2}-y_{1}&space;\right&space;)^2}" title="Euclidean\ Distance \2D=\sqrt{\left ( x_{2}-x_{1} \right )^2 + \left ( y_{2}-y_{1} \right )^2}" /></a>
+</p>
 
 
-2. Manhattanmanhattan distance 
+
+2. Manhattan distance 
 3. Minkowski  distance
 4. Cosine Similarity 
 
