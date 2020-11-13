@@ -3,6 +3,7 @@
 #### Why do we care?
 
 Distance between two points is used in many ways in machine learning. Depending how far the two points are relative to eachother, we can cluster them as one class or divide them into different groups. There are many types of measures of distance, and they are selected uniquely depending on its purpose.
+<br>
 
 ---
 
@@ -27,8 +28,19 @@ Euclidean distance is the line segment connecting the two points in Euclidean sp
 </p>
 
 <p align="center">
-here, x and y are points on the same ith axis
+Here, x and y are points on the same ith axis
 </p>
+
+<br>
+
+#### Where is Euclidean distance used?
+
+
+
+
+
+
+
 
 2. Manhattan distance 
 3. Minkowski  distance
